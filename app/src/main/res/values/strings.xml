@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="checkedtextview">CheckedTextView</string>
+    <string name="ct1">Dep.Sistemas</string>
+    <string name="Registrarse">Registrarse</string>
+</resources>
